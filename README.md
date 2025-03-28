@@ -1,16 +1,7 @@
-# **TweaksX AI Agent**
 
-## **📢 Follow Us for the Latest Performance Optimizations!**
 Stay up to date with cutting-edge system tweaks, FPS boosts, and low-latency gaming optimizations:
 
-- 🐦 Twitter: [TweaksX1](https://x.com/TweaksX1)
-- 🌐 Website: [Synez](https://synez.net/)
-- 🎥 YouTube: [Synez](https://www.youtube.com/@synez)
-
 ---
-
-## **🤖 What Does This AI Agent Do?**
-The **TweaksX AI Agent** is an advanced automated system designed to optimize gaming performance by leveraging AI-driven insights and real-time engagement strategies. It operates across social media platforms to provide the latest performance-enhancing tweaks and connect with the gaming community.
 
 ### **🛠 Built on the Eliza OS Framework**
 TweaksX AI Agent is powered by the **Eliza OS Framework**, an open-source AI platform designed for automated AI agents in the Solana ecosystem. The framework enables efficient, intelligent interactions, ensuring optimized performance recommendations and real-time social engagement.
