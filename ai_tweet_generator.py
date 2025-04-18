@@ -3,7 +3,6 @@ import random
 import openai  # Assuming OpenAI API, but you can swap it with any local LLM API
 
 # Set up OpenAI API key (Replace with your local LLM endpoint if needed)
-openai.api_key = "your-api-key-here"  # Replace with actual API key
 
 def generate_ai_tweet():
     """Generates a tweet using an LLM based on performance optimization themes."""
