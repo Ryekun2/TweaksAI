@@ -7,24 +7,15 @@ from PIL import Image, ImageTk
 
 # Suggestions
 hardware_suggestions = [
-    "In your bios settings, enable XMP and increase your frequency to 6000 MHZ",
-    "Manually set DRAM voltage to 1.35V for stable overclocking.",
-    "Boost GPU core clock by +150 MHz using MSI Afterburner.",
-    "Set up a custom fan curve to keep GPU temperature below 70°C."
+   
 ]
 
 software_suggestions = [
-    "Disable unnecessary startup programs in Task Manager (You have programs with startup enabled).",
-    "Install MSI Afterburner for real-time GPU monitoring and tweaks.",
-    "Use Process Lasso to optimize CPU usage and improve responsiveness.",
-    "Clear Browser Cache"
+   
 ]
 
 settings_suggestions = [
-    "Set the power plan to High Performance in Control Panel > Power Options.",
-    "Turn Off Windows Defender’s Real-time Protection temporarily.",
-    "Disable Large Send Offload in Network Settings to reduce latency.",
-    "Disable Windows Auto-Tuning with: netsh interface tcp set global autotuninglevel=disabled"
+
 ]
 
 def slow_type(text, output_widget):
