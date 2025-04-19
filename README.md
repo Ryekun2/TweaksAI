@@ -2,7 +2,7 @@
 Stay up to date with cutting-edge system tweaks, FPS boosts, and low-latency Windows optimizations — all powered by smart automation and real AI logic.
 
 📡 Follow [@TweaksAI](https://x.com/TweaksAI) on X
-
+Check out our gitbook Here: https://tweaksai.gitbook.io/tweaksai
 🧠 Built with the Eliza OS Framework
 TweaksAI is powered by the Eliza OS Framework, an open-source AI architecture built for autonomous agents. It enables rapid system analysis, intelligent performance suggestions, and real-time engagement with the gaming and tech community.
 
