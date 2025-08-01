@@ -1,7 +1,6 @@
 ⚡ TweaksAI – Your Personal Windows Optimization Agent
 Stay up to date with cutting-edge system tweaks, FPS boosts, and low-latency Windows optimizations — all powered by smart automation and real AI logic.
 
-📡 Follow [@TweaksAI](https://x.com/TweaksAI) on X
 
 Check out our gitbook Here: https://tweaksai.gitbook.io/tweaksai
 
